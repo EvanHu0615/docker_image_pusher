@@ -1,5 +1,2 @@
-kowming/istoreos-x86-64
-TANGWJ3/iStoreOS-x86-64
-chx33/istoreos-x86_64
-garethwang/garethwang-istoreos
-lamfire8390/istoreos
+istoreos-x86-64
+iStoreOS-x86-64
