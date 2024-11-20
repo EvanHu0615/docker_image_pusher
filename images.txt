@@ -1,2 +1,7 @@
-istoreos-x86-64
-iStoreOS-x86-64
+kowming/istoreos-openwrt-n1-aarch64
+lamfire8390/istoreos
+soroke/istoreos
+chx33/istoreos
+kowming/istoreos-x86-64
+fingerboy/istoreos-x86-64
+tangwj3/istoreos-x86-64
